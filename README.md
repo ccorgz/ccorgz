@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Carlos Corgozinho 👋
+But you can call me ccorgz 😉
+
+I've been transforming ideas into reality on the web since 2020, and into the tech world since 2017.
+
+U can check more about me in my website https://ccorgz.com.
+
+Or, if u want to talk a bit, reach me at the Nexus Community Disccord server: https://discord.gg/VtZ2Xz6ZCU
 
 <!--
 **ccorgz/ccorgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
