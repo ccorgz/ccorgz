@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/ccorgz">
+  <img height="200em" alt="Ccorgz Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ccorgz?cardType=level&theme=github_dark&preferLogin=false" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccorgz&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
