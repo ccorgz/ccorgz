@@ -9,6 +9,6 @@ Or, if u want to talk a bit, reach me at the Nexus Community Discord server: htt
 
 <div align="center">
   <a href="https://github.com/ccorgz">
-  <img height="200em" alt="Ccorgz Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ccorgz?cardType=level&theme=dracula&preferLogin=false" />
+  <img height="200em" alt="Ccorgz Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ccorgz?cardType=level&theme=transparent&preferLogin=false" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccorgz&layout=compact&langs_count=7&theme=transparent"/>
 </div>
